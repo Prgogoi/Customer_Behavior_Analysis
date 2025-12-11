@@ -30,6 +30,7 @@ PowerPoint / PDF (Final report & presentation)
 Git & GitHub (Version control)
 
 🧭 Steps Followed in the Project
+
 1️⃣ Data Loading (Python)
 
 Imported the dataset using Pandas.
